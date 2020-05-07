@@ -1,0 +1,15 @@
+h1 {
+    color: black;
+    text-decoration: black underline;
+}
+
+body {
+    background-image: url("image/creative-background-seamless_1284-4659.jpg");
+    /* background-repeat: no-repeat; */
+}
+
+button {
+    background-color: white;
+    color: black;
+    size: 0vmax;
+}

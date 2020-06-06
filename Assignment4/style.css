@@ -1,0 +1,186 @@
+.navbar {
+    background-color: #00796B!important;
+}
+
+.nav-link,
+.navbar-brand {
+    color: white !important;
+}
+
+.fa-user-circle {
+    font-size: 22px !important;
+}
+
+.fa-cart-arrow-down {
+    font-size: 22px !important;
+}
+
+.col {
+    box-shadow: grey 2px 2px 2px;
+    padding: 20px 20px 20px;
+    justify-content: center;
+}
+
+.row {
+    margin: 20px;
+    padding: 20xp;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card1,
+.card2,
+.card3 {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    box-shadow: 2px 4px 5px gray;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.MainCard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .card1,
+    .card2,
+    .card3 {
+        width: 100%;
+    }
+}
+
+.NewArrival {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.Heading {
+    text-align: center;
+    color: #00796B !important;
+    text-shadow: 2px 2px 2px;
+    font-weight: bold;
+}
+
+.card {
+    width: 250px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.card-text,
+.card-title {
+    font-weight: bold;
+}
+
+.btn-primary {
+    width: 100%;
+    background-color: #00796B !important;
+    border: #00796B !important;
+}
+
+@media only screen and (max-width: 765px) {
+    .row {
+        margin-left: 20%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .row {
+        margin-left: 10%;
+        margin-right: 20%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .row {
+        margin-left: 1%;
+        margin-right: 5%;
+    }
+}
+
+.footer {
+    width: 100% !important;
+    height: 90px;
+    background-color: #00796B !important;
+}
+
+.footerIn {
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    /* margin-top: 40px; */
+    width: 100%;
+}
+
+.fa-user-circle {
+    font-size: 22px !important;
+}
+
+.fa-cart-arrow-down {
+    font-size: 22px !important;
+}
+
+.fa-truck,
+.fa-headphones,
+.fa-thumbs-up {
+    font-size: 40px !important;
+    margin-right: 10px;
+}
+
+#aboutPara {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#heading {
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+.form-row,
+#con,
+.form-group {
+    justify-content: space-around !important;
+    padding: 20px 20px 20px 20px;
+}
+
+.jumbotron {
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.accordion,
+.card-body,
+#accordionExample {
+    width: 100% !important;
+    justify-content: space-between;
+}
+
+.card {
+    width: 100% !important;
+}
+
+#ph {
+    padding: 20px;
+}
+
+.container-fluid {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    justify-content: space-around !important;
+    background-color: black;
+    color: white;
+}

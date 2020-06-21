@@ -44,12 +44,12 @@
 // document.write("<br>");
 
 //Task : 4
-var input = prompt("Please Enter a single character");
-if (input == 'A' || input == 'a' || input == 'E' || input == 'e' || input == 'I' || input == 'i' || input == 'O' || input == 'o' || input == 'U' || input == 'u') {
-    console.log(input + " " + "is vowel ");
-} else {
-    console.log(input + " " + "is consunent")
-}
+// var input = prompt("Please Enter a single character");
+// if (input == 'A' || input == 'a' || input == 'E' || input == 'e' || input == 'I' || input == 'i' || input == 'O' || input == 'o' || input == 'U' || input == 'u') {
+//     console.log(input + " " + "is vowel ");
+// } else {
+//     console.log(input + " " + "is consunent")
+// }
 
 
 // //Task : 5

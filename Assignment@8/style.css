@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+    text-align: center;
+    background-image: url("image/images.png");
+}
+
+h1 {
+    background-color: rgb(22, 13, 145);
+    display: inline-block;
+    width: 200px;
+    color: black;
+    border-radius: 2rem;
+}
+
+Buttons {
+    background-color: rgb(76, 223, 31);
+    color: black;
+    padding: 10px;
+    border-radius: 2rem;
+    width: 150px;
+}

@@ -1,33 +1,33 @@
 //Task :1
-// function dateAndtime() {
-//     var date = new Date();
-//     document.write(date + "<br>" + "<br>");
-// }
+function dateAndtime() {
+    var date = new Date();
+    document.write(date + "<br>" + "<br>");
+}
 
-// dateAndtime();
+dateAndtime();
 
 
 //Task: 2
-// function firstAndLastName() {
-//     var firstName = prompt("Enter your first name: ");
-//     var lastName = prompt("Enter your last name");
-//     document.write("ASSALAM O ALAIKUM " + firstName.toUpperCase() +
-//         " " + lastName.toUpperCase() + "<br>" + "<br>");
-// }
+function firstAndLastName() {
+    var firstName = prompt("Enter your first name: ");
+    var lastName = prompt("Enter your last name");
+    document.write("ASSALAM O ALAIKUM " + firstName.toUpperCase() +
+        " " + lastName.toUpperCase() + "<br>" + "<br>");
+}
 
-// firstAndLastName();
+firstAndLastName();
 
 //Task : 3
-// var num1 = +prompt("Enter your first number: ");
-// var num2 = +prompt("Enter your second number: ");
+var num1 = +prompt("Enter your first number: ");
+var num2 = +prompt("Enter your second number: ");
 
-// function add(x, y) {
-//     var sum = x + y;
-//     return sum;
-// }
+function add(x, y) {
+    var sum = x + y;
+    return sum;
+}
 
-// var val = add(num1, num2);
-// document.write("Sum of " + num1 + " and " + num2 + " is " + val + "<br>" + "<br>");
+var val = add(num1, num2);
+document.write("Sum of " + num1 + " and " + num2 + " is " + val + "<br>" + "<br>");
 
 //Task :4
 
